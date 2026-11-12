@@ -1,0 +1,19 @@
+Start testing: Nov 07 18:05 IST
+----------------------------------------------------------
+1/1 Testing: console_rules_and_ui
+1/1 Test: console_rules_and_ui
+Command: "/home/krishna/Desktop/Embedded/Emb_Project/build/host/console_tests"
+Directory: /home/krishna/Desktop/Embedded/Emb_Project/build/host
+"console_rules_and_ui" start time: Nov 07 18:05 IST
+Output:
+----------------------------------------------------------
+PASS: input, parser, collisions, Pong, Soccer Pool, Snake, Shade Duel, navigation, metrics and RAM rendering
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"console_rules_and_ui" end time: Nov 07 18:05 IST
+"console_rules_and_ui" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 18:05 IST
